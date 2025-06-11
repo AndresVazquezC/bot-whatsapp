@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "whatsapp-web.js": "^1.30.0"
+    "whatsapp-web.js": "^1.30.0",
+    "wwebjs-mongo": "^1.1.0"
   }
 }
